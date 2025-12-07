@@ -1,0 +1,1 @@
+print("Indu + Entri course")
